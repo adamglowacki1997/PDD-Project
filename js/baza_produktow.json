@@ -1,0 +1,112 @@
+{
+	"item1":{
+			"nazwa": "Produkt1",
+			"kod": "70-700",
+			"cena_netto": "81.00",
+			"vat": "19.0",
+			"cena_brutto": "100.00",
+			"kategoria": "2",
+			"opcjaTowaru": ["op1", "op2"],
+			"ocena": "1",
+			"zdjecie": "zdj1"
+			},
+	"item2":{
+			"nazwa": "Produkt2",
+			"kod": "70-701",
+			"cena_netto": "25.00",
+			"vat": "5.0",
+			"cena_brutto": "100.00",
+			"kategoria": "1",
+			"opcjaTowaru": ["op2", "op3"],
+			"ocena": "3",
+			"zdjecie": "zdj"
+			},
+	"item3":{
+			"nazwa": "Produkt3",
+			"kod": "70-703",
+			"cena_netto": "95.00",
+			"vat": "5.0",
+			"cena_brutto": "100.00",
+			"kategoria": "2",
+			"opcjaTowaru": ["op2", "op4"],
+			"ocena": "5",
+			"zdjecie": "zdj3"
+			},
+	"item4":{
+			"nazwa": "Produkt4",
+			"kod": "70-704",
+			"cena_netto": "98.00",
+			"vat": "2.0",
+			"cena_brutto": "100.00",
+			"kategoria": "1",
+			"opcjaTowaru": ["op1", "op3"],
+			"ocena": "2",
+			"zdjecie": "zdj"
+			},
+	"item5":{
+			"nazwa": "Produkt5",
+			"kod": "70-705",
+			"cena_netto": "87.00",
+			"vat": "13.0",
+			"cena_brutto": "100.00",
+			"kategoria": "1",
+			"opcjaTowaru": ["op2", "op5"],
+			"ocena": "4",
+			"zdjecie": "zdj"
+			},
+	"item6":{
+			"nazwa": "Produkt6",
+			"kod": "70-706",
+			"cena_netto": "62.00",
+			"vat": "38.0",
+			"cena_brutto": "100.00",
+			"kategoria": "2",
+			"opcjaTowaru": ["op3", "op4"],
+			"ocena": "2",
+			"zdjecie": "zdj"
+			},
+	"item7":{
+			"nazwa": "Produkt7",
+			"kod": "70-707",
+			"cena_netto": "55.00",
+			"vat": "45.0",
+			"cena_brutto": "100.00",
+			"kategoria": "3",
+			"opcjaTowaru": ["op4", "op5"],
+			"ocena": "4",
+			"zdjecie": "zdj7"
+			},
+	"item8":{
+			"nazwa": "Produkt8",
+			"kod": "70-708",
+			"cena_netto": "86.00",
+			"vat": "14.0",
+			"cena_brutto": "100.00",
+			"kategoria": "3",
+			"opcjaTowaru": ["op1", "op4"],
+			"ocena": "1",
+			"zdjecie": "zdj8"
+			},
+	"item9":{
+			"nazwa": "Produkt9",
+			"kod": "70-709",
+			"cena_netto": "80.00",
+			"vat": "20.0",
+			"cena_brutto": "100.00",
+			"kategoria": "1",
+			"opcjaTowaru": ["op1", "op5"],
+			"ocena": "2",
+			"zdjecie": "zdj9"
+			},
+	"item10":{
+			"nazwa": "Produkt10",
+			"kod": "70-710",
+			"cena_netto": "77.00",
+			"vat": "23.0",
+			"cena_brutto": "100.00",
+			"kategoria": "1",
+			"opcjaTowaru": ["op4", "op5"],
+			"ocena": "4",
+			"zdjecie": "zdj10"
+			}
+}

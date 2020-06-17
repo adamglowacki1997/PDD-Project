@@ -1,0 +1,9 @@
+html, body{
+  margin:0px;
+  padding:0px;
+  background-color: blue;
+}
+   .footer{
+    background-color: blue;
+    text-align: center;
+  }
